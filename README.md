@@ -1,5 +1,4 @@
 # First
-![image](https://user-images.githubusercontent.com/69109710/184173726-e2c7d284-a165-4257-b382-0e2b787ea872.png)
 import face_recognition as fr
 import cv2
 import numpy as np
